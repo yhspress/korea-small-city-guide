@@ -1,0 +1,253 @@
+{
+  "cities": [
+    {
+      "slug": "chuncheon",
+      "ja": "春川",
+      "ko": "춘천",
+      "lat": 37.8813,
+      "lng": 127.73,
+      "spots": [
+        {
+          "ja": "南怡島",
+          "ko": "남이섬",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nami%20Island%20Korea"
+        },
+        {
+          "ja": "昭陽江スカイウォーク",
+          "ko": "소양강 스카이워크",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Soyanggang%20Skywalk"
+        }
+      ]
+    },
+    {
+      "slug": "gangneung",
+      "ja": "江陵",
+      "ko": "강릉",
+      "lat": 37.7519,
+      "lng": 128.8761,
+      "spots": [
+        {
+          "ja": "鏡浦台",
+          "ko": "경포대",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gyeongpodae"
+        },
+        {
+          "ja": "安木海辺",
+          "ko": "안목해변",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anmok%20Beach"
+        }
+      ]
+    },
+    {
+      "slug": "daejeon",
+      "ja": "大田",
+      "ko": "대전",
+      "lat": 36.3504,
+      "lng": 127.3845,
+      "spots": [
+        {
+          "ja": "国立中央科学館",
+          "ko": "국립중앙과학관",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Science%20Museum%20Daejeon"
+        },
+        {
+          "ja": "儒城温泉",
+          "ko": "유성온천",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yuseong%20Hot%20Springs"
+        }
+      ]
+    },
+    {
+      "slug": "andong",
+      "ja": "安東",
+      "ko": "안동",
+      "lat": 36.5684,
+      "lng": 128.7294,
+      "spots": [
+        {
+          "ja": "河回村",
+          "ko": "하회마을",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Andong%20Hahoe%20Folk%20Village"
+        },
+        {
+          "ja": "月映橋",
+          "ko": "월영교",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Woryeonggyo%20Bridge"
+        }
+      ]
+    },
+    {
+      "slug": "daegu",
+      "ja": "大邱",
+      "ko": "대구",
+      "lat": 35.8714,
+      "lng": 128.6014,
+      "spots": [
+        {
+          "ja": "西門市場",
+          "ko": "서문시장",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Seomun%20Market"
+        },
+        {
+          "ja": "八公山",
+          "ko": "팔공산",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Palgongsan"
+        }
+      ]
+    },
+    {
+      "slug": "jeonju",
+      "ja": "全州",
+      "ko": "전주",
+      "lat": 35.8242,
+      "lng": 127.148,
+      "spots": [
+        {
+          "ja": "全州韓屋村",
+          "ko": "전주한옥마을",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jeonju%20Hanok%20Village"
+        },
+        {
+          "ja": "慶基殿",
+          "ko": "경기전",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gyeonggijeon%20Shrine"
+        }
+      ]
+    },
+    {
+      "slug": "gwangju",
+      "ja": "光州",
+      "ko": "광주",
+      "lat": 35.1595,
+      "lng": 126.8526,
+      "spots": [
+        {
+          "ja": "国立アジア文化殿堂",
+          "ko": "국립아시아문화전당",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Asia%20Culture%20Center%20Gwangju"
+        },
+        {
+          "ja": "無等山",
+          "ko": "무등산",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mudeungsan%20National%20Park"
+        }
+      ]
+    },
+    {
+      "slug": "mokpo",
+      "ja": "木浦",
+      "ko": "목포",
+      "lat": 34.8118,
+      "lng": 126.3922,
+      "spots": [
+        {
+          "ja": "儒達山",
+          "ko": "유달산",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yudalsan%20Mountain"
+        },
+        {
+          "ja": "木浦海上ケーブルカー",
+          "ko": "목포 해상케이블카",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mokpo%20Marine%20Cable%20Car"
+        }
+      ]
+    },
+    {
+      "slug": "yeosu",
+      "ja": "麗水",
+      "ko": "여수",
+      "lat": 34.7604,
+      "lng": 127.6622,
+      "spots": [
+        {
+          "ja": "麗水海上ケーブルカー",
+          "ko": "여수 해상케이블카",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yeosu%20Maritime%20Cable%20Car"
+        },
+        {
+          "ja": "梧桐島",
+          "ko": "오동도",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Odongdo%20Island"
+        }
+      ]
+    },
+    {
+      "slug": "tongyeong",
+      "ja": "統営",
+      "ko": "통영",
+      "lat": 34.8544,
+      "lng": 128.4331,
+      "spots": [
+        {
+          "ja": "東ピラン壁画村",
+          "ko": "동피랑 벽화마을",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dongpirang%20Mural%20Village"
+        },
+        {
+          "ja": "弥勒山ケーブルカー",
+          "ko": "미륵산 케이블카",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mireuksan%20Cable%20Car"
+        }
+      ]
+    },
+    {
+      "slug": "gimhae",
+      "ja": "金海",
+      "ko": "김해",
+      "lat": 35.2285,
+      "lng": 128.8894,
+      "spots": [
+        {
+          "ja": "金海伽倻テーマパーク",
+          "ko": "김해가야테마파크",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gimhae%20Gaya%20Theme%20Park"
+        },
+        {
+          "ja": "首露王陵",
+          "ko": "수로왕릉",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tomb%20of%20King%20Suro"
+        }
+      ]
+    },
+    {
+      "slug": "gyeongju",
+      "ja": "慶州",
+      "ko": "경주",
+      "lat": 35.8562,
+      "lng": 129.2247,
+      "spots": [
+        {
+          "ja": "仏国寺",
+          "ko": "불국사",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bulguksa"
+        },
+        {
+          "ja": "大陵苑",
+          "ko": "대릉원",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Daereungwon%20Tomb%20Complex"
+        }
+      ]
+    },
+    {
+      "slug": "gongju",
+      "ja": "公州",
+      "ko": "공주",
+      "lat": 36.4465,
+      "lng": 127.119,
+      "spots": [
+        {
+          "ja": "公山城",
+          "ko": "공산성",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gongsanseong%20Fortress"
+        },
+        {
+          "ja": "武寧王陵",
+          "ko": "무령왕릉",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tomb%20of%20King%20Muryeong"
+        }
+      ],
+      "noteJa": "公州駅から市内中心部へはバスまたはタクシーが便利です。",
+      "noteKo": "공주역에서 도심까지는 버스나 택시 이용이 편리합니다."
+    }
+  ]
+}
