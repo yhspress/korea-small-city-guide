@@ -1,0 +1,196 @@
+{
+  "partner": "Trip.com",
+  "currency": "JPY",
+  "locale": "ja-JP",
+  "affiliate": {
+    "Allianceid": "9886696",
+    "SID": "329753740"
+  },
+  "common": {
+    "flights": {
+      "ja": "航空券",
+      "ko": "항공권",
+      "url": "https://jp.trip.com/flights/?curr=JPY&locale=ja-JP&Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    "hotels": {
+      "ja": "ホテル",
+      "ko": "호텔",
+      "url": "https://jp.trip.com/hotels/?curr=JPY&locale=ja-JP&Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    "packages": {
+      "ja": "航空券＋ホテル",
+      "ko": "항공권+호텔",
+      "url": "https://jp.trip.com/packages/?curr=JPY&locale=ja-JP&Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    "korail": {
+      "ja": "韓国鉄道",
+      "ko": "한국 기차",
+      "url": "https://jp.trip.com/trains/korail/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    "activities": {
+      "ja": "観光・体験",
+      "ko": "관광·체험",
+      "url": "https://jp.trip.com/things-to-do/?curr=JPY&locale=ja-JP&Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    "esim": {
+      "ja": "eSIM",
+      "ko": "이심",
+      "url": "https://jp.trip.com/things-to-do/experiences/southkorea-connectivity-solutions/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    "airportPickup": {
+      "ja": "空港送迎",
+      "ko": "공항 픽업",
+      "url": "https://jp.trip.com/airport-transfers/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    "carRental": {
+      "ja": "レンタカー",
+      "ko": "렌터카",
+      "url": "https://jp.trip.com/carhire/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    }
+  },
+  "hotels": [
+    {
+      "slug": "chuncheon",
+      "ja": "春川",
+      "ko": "춘천",
+      "url": "https://jp.trip.com/hotels/chuncheon-si-hotels-list-35788/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    {
+      "slug": "gangneung",
+      "ja": "江陵",
+      "ko": "강릉",
+      "url": "https://jp.trip.com/hotels/gangneung-si-hotels-list-61325/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    {
+      "slug": "daejeon",
+      "ja": "大田",
+      "ko": "대전",
+      "url": "https://jp.trip.com/hotels/daejeon-hotels-list-61292/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548517"
+    },
+    {
+      "slug": "andong",
+      "ja": "安東",
+      "ko": "안동",
+      "url": "https://jp.trip.com/hotels/andong-si-hotels-list-61163/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "daegu",
+      "ja": "大邱",
+      "ko": "대구",
+      "url": "https://jp.trip.com/hotels/daegu-hotels-list-1287/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "jeonju",
+      "ja": "全州",
+      "ko": "전주",
+      "url": "https://jp.trip.com/hotels/jeonju-si-hotels-list-61380/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "gwangju",
+      "ja": "光州",
+      "ko": "광주",
+      "url": "https://jp.trip.com/hotels/gwangju-hotels-list-738/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "mokpo",
+      "ja": "木浦",
+      "ko": "목포",
+      "url": "https://jp.trip.com/hotels/mokpo-hotels-list-3986/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "yeosu",
+      "ja": "麗水",
+      "ko": "여수",
+      "url": "https://jp.trip.com/hotels/yeosu-hotels-list-4016/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "tongyeong",
+      "ja": "統営",
+      "ko": "통영",
+      "url": "https://jp.trip.com/hotels/tongyeong-si-hotels-list-72366/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "gimhae",
+      "ja": "金海",
+      "ko": "김해",
+      "url": "https://jp.trip.com/hotels/gimhae-si-hotels-list-61334/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "gyeongju",
+      "ja": "慶州",
+      "ko": "경주",
+      "url": "https://jp.trip.com/hotels/gyeongju-hotels-list-3675/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "gongju",
+      "ja": "公州",
+      "ko": "공주",
+      "url": "https://jp.trip.com/hotels/gongju-si-hotels-list-88099/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    }
+  ],
+  "trains": [
+    {
+      "slug": "seoul-chuncheon",
+      "ja": "ソウル→春川",
+      "ko": "서울→춘천",
+      "url": "https://jp.trip.com/trains/korail/route/seoul-to-chuncheon/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "seoul-gangneung",
+      "ja": "ソウル→江陵",
+      "ko": "서울→강릉",
+      "url": "https://jp.trip.com/trains/korail/route/seoul-to-gangneung/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "seoul-daejeon",
+      "ja": "ソウル→大田",
+      "ko": "서울→대전",
+      "url": "https://jp.trip.com/trains/korail/route/seoul-to-daejeon/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "seoul-daegu",
+      "ja": "ソウル→大邱",
+      "ko": "서울→대구",
+      "url": "https://jp.trip.com/trains/korail/route/seoul-to-daegu/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "seoul-jeonju",
+      "ja": "ソウル→全州",
+      "ko": "서울→전주",
+      "url": "https://jp.trip.com/trains/korail/route/seoul-to-jeonju/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "seoul-mokpo",
+      "ja": "ソウル→木浦",
+      "ko": "서울→목포",
+      "url": "https://jp.trip.com/trains/korail/route/seoul-to-mokpo/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "seoul-yeosu-expo",
+      "ja": "ソウル→麗水EXPO",
+      "ko": "서울→여수엑스포",
+      "url": "https://jp.trip.com/trains/korail/route/seoul-to-yeosu-expo/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "seoul-gyeongju",
+      "ja": "ソウル→慶州",
+      "ko": "서울→경주",
+      "url": "https://jp.trip.com/trains/korail/route/seoul-to-gyeongju/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "busan-gyeongju",
+      "ja": "釜山→慶州",
+      "ko": "부산→경주",
+      "url": "https://jp.trip.com/trains/korail/route/busan-to-gyeongju/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    },
+    {
+      "slug": "seoul-gongju",
+      "ja": "ソウル→公州",
+      "ko": "서울→공주",
+      "url": "https://jp.trip.com/trains/korail/route/seoul-to-gongju/?Allianceid=9886696&SID=329753740&trip_sub1=&trip_sub3=D19548566"
+    }
+  ],
+  "excluded": [
+    "yongsan-gongju"
+  ]
+}
